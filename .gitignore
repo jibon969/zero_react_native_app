@@ -18,5 +18,11 @@ web-build/
 
 .expo-shared/
 
-.idle/
+.idea/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/zero_react_native_app.iml
+
 
